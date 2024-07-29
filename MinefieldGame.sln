@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinefieldGame.Tests", "MinefieldGame.Tests\MinefieldGame.Tests.csproj", "{A0BDD1AA-DFCA-44EC-B61F-812A677987E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinefieldGame", "MinefieldGame\MinefieldGame.csproj", "{6BC34CF5-24E4-4161-BEA2-28847D2382FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0BDD1AA-DFCA-44EC-B61F-812A677987E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BDD1AA-DFCA-44EC-B61F-812A677987E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BDD1AA-DFCA-44EC-B61F-812A677987E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BDD1AA-DFCA-44EC-B61F-812A677987E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BC34CF5-24E4-4161-BEA2-28847D2382FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BC34CF5-24E4-4161-BEA2-28847D2382FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BC34CF5-24E4-4161-BEA2-28847D2382FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BC34CF5-24E4-4161-BEA2-28847D2382FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C065460F-6E79-4E53-AAC9-F55F009E396F}
+	EndGlobalSection
+EndGlobal

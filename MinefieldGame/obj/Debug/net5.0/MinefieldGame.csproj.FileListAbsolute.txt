@@ -1,0 +1,15 @@
+/Users/nijiya/MinefieldGame/MinefieldGame/bin/Debug/net5.0/MinefieldGame.deps.json
+/Users/nijiya/MinefieldGame/MinefieldGame/bin/Debug/net5.0/MinefieldGame.runtimeconfig.json
+/Users/nijiya/MinefieldGame/MinefieldGame/bin/Debug/net5.0/MinefieldGame.runtimeconfig.dev.json
+/Users/nijiya/MinefieldGame/MinefieldGame/bin/Debug/net5.0/MinefieldGame.dll
+/Users/nijiya/MinefieldGame/MinefieldGame/bin/Debug/net5.0/ref/MinefieldGame.dll
+/Users/nijiya/MinefieldGame/MinefieldGame/bin/Debug/net5.0/MinefieldGame.pdb
+/Users/nijiya/MinefieldGame/MinefieldGame/obj/Debug/net5.0/MinefieldGame.csproj.AssemblyReference.cache
+/Users/nijiya/MinefieldGame/MinefieldGame/obj/Debug/net5.0/MinefieldGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nijiya/MinefieldGame/MinefieldGame/obj/Debug/net5.0/MinefieldGame.AssemblyInfoInputs.cache
+/Users/nijiya/MinefieldGame/MinefieldGame/obj/Debug/net5.0/MinefieldGame.AssemblyInfo.cs
+/Users/nijiya/MinefieldGame/MinefieldGame/obj/Debug/net5.0/MinefieldGame.csproj.CoreCompileInputs.cache
+/Users/nijiya/MinefieldGame/MinefieldGame/obj/Debug/net5.0/MinefieldGame.dll
+/Users/nijiya/MinefieldGame/MinefieldGame/obj/Debug/net5.0/ref/MinefieldGame.dll
+/Users/nijiya/MinefieldGame/MinefieldGame/obj/Debug/net5.0/MinefieldGame.pdb
+/Users/nijiya/MinefieldGame/MinefieldGame/obj/Debug/net5.0/MinefieldGame.genruntimeconfig.cache

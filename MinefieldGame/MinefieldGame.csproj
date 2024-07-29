@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <Compile Remove="GameModels\MoveDirection.cs;GameModels\BoardPosition.cs;GameControl\MinefieldGameLogic.cs;GameInterface\MinefieldGameInterface.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="GameModels\MoveDirection.cs" />
+    <Compile Include="GameModels\BoardPosition.cs" />
+    <Compile Include="GameControl\MinefieldGameLogic.cs" />
+    <Compile Include="GameInterface\MinefieldGameInterface.cs" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
